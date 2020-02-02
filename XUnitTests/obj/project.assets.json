@@ -6518,8 +6518,8 @@
     },
     "AlgorithmCollection/1.0.0": {
       "type": "project",
-      "path": "../Fibonacci/AlgorithmCollection.csproj",
-      "msbuildProject": "../Fibonacci/AlgorithmCollection.csproj"
+      "path": "../AlgorithmCollection/AlgorithmCollection.csproj",
+      "msbuildProject": "../AlgorithmCollection/AlgorithmCollection.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6538,11 +6538,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vinic\\source\\repos\\Fibonacci\\XUnitTests\\XUnitTests.csproj",
+      "projectUniqueName": "C:\\Users\\vinic\\source\\repos\\AlgorithmCollection\\XUnitTests\\XUnitTests.csproj",
       "projectName": "XUnitTests",
-      "projectPath": "C:\\Users\\vinic\\source\\repos\\Fibonacci\\XUnitTests\\XUnitTests.csproj",
+      "projectPath": "C:\\Users\\vinic\\source\\repos\\AlgorithmCollection\\XUnitTests\\XUnitTests.csproj",
       "packagesPath": "C:\\Users\\vinic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vinic\\source\\repos\\Fibonacci\\XUnitTests\\obj\\",
+      "outputPath": "C:\\Users\\vinic\\source\\repos\\AlgorithmCollection\\XUnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6561,8 +6561,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\vinic\\source\\repos\\Fibonacci\\Fibonacci\\AlgorithmCollection.csproj": {
-              "projectPath": "C:\\Users\\vinic\\source\\repos\\Fibonacci\\Fibonacci\\AlgorithmCollection.csproj"
+            "C:\\Users\\vinic\\source\\repos\\AlgorithmCollection\\AlgorithmCollection\\AlgorithmCollection.csproj": {
+              "projectPath": "C:\\Users\\vinic\\source\\repos\\AlgorithmCollection\\AlgorithmCollection\\AlgorithmCollection.csproj"
             }
           }
         }
